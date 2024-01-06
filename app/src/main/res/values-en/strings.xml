@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="agregar_compra">Add purchase</string>
+    <string name="sort_alphabetically">Sort alphabetically</string>
+    <string name="show_buy_items_first">Show buy items first</string>
+    <string name="compra_form_eliminar">Delete purchase</string>
+    <string name="logo">Logo</string>
+</resources>
